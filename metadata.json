@@ -1,0 +1,7 @@
+{
+  "name": "TechFlow AI - Service Management",
+  "description": "A professional service call management platform for technicians, enhanced with Gemini AI for intelligent issue analysis, priority suggestion, and troubleshooting guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
